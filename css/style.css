@@ -29,6 +29,14 @@
     z-index: 99;
 }
 
+.whatsapp {
+    position: fixed;
+    display: none;
+    right: 45px;
+    bottom: 100px;
+    z-index: 100;
+}
+
 
 /*** Heading ***/
 h1,
