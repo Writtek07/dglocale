@@ -631,3 +631,13 @@ h6,
 .text-purple {
     color: #6929c4;
 }
+
+.know {
+    display: none;
+}
+
+@media (max-width: 992px) {
+    .know {
+        display: block;
+    }
+}
