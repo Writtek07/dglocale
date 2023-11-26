@@ -564,7 +564,8 @@ h6,
     align-items: center;
     justify-content: center;
     color: var(--light);
-    border: 1px solid rgba(256, 256, 256, .1);
+    /* border: 1px solid rgba(256, 256, 256, .1); */
+    border: 1.5px solid rgb(17, 15, 15);
     border-radius: 40px;
     transition: .3s;
 }
